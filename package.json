@@ -1,5 +1,5 @@
 {
-  "name": "webcrypto-shim",
+  "name": "webcrypto-shim-commonjs",
   "main": "webcrypto-shim.js",
   "version": "0.1.1",
   "description": "Web Cryptography API shim for legacy browsers",
